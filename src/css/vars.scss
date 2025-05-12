@@ -1,0 +1,11 @@
+$primory: #fff;
+$secondary: #6C7279;
+$colorTitle: #000;
+
+@mixin font($font-size: 18px,$font-weight: 400 ,$line-height: 21px,$font-family: "Raleway" ,$color:$primory){
+   font-size:$font-size;
+   font-weight:$font-weight;
+   line-height:$line-height;
+   font-family:$font-family;
+   color:$color;
+} 
