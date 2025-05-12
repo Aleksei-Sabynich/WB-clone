@@ -2,7 +2,7 @@
 node_modules/
 
 # Parcel build output
-.dist
+.dist/
 
 # Parcel cache (ускоряет сборку, но не нужен в Git)
 .cache/
