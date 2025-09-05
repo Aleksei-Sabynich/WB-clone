@@ -124,7 +124,7 @@ body{
       position: absolute;
       width: 20px;
       height: 20px;
-      background-image: url(/src/images/select.png);
+      background-image: url(./images/select.png);
       background-size: cover;
       bottom: 0;
       right: 0;  
@@ -137,7 +137,7 @@ body{
          background-color: rgb(220 217 217 / 37%);
          border-radius: 10px;
       }
-   }
+   }       
  
    .header__select-abr {
       @include font($font-size: 18px,$font-weight: 400 ,$line-height: 24px,$font-family: "Roboto" ,$color:#868695);
@@ -443,7 +443,7 @@ body{
       top: 20px;
       width: 20px;
       height: 20px;
-      background: url(/src/images/crossmodal.png);
+      background: url(./images/crossmodal.png);
       background-repeat: no-repeat;
       background-size: cover;
       border: none;
@@ -507,7 +507,7 @@ body{
          top:  0;
          width: 20px;
          height: 20px;
-         background: url(/src/images/modalLogin.png);
+         background: url(./images/modalLogin.png);
          background-repeat: no-repeat;
          background-size: cover;
 
@@ -555,7 +555,7 @@ body{
          position: absolute;
          width: 20px;
          height: 20px;
-         background-image: url(/src/images/select.png);
+         background-image: url(./images/select.png);
          background-size: cover;
          bottom: 0;
          right: 0;  
@@ -669,7 +669,7 @@ body{
             height: 30px;
             right: 0;
             bottom: 0;
-            background-image: url(/src/images/bin.png);
+            background-image: url(./images/bin.png);
             background-repeat: no-repeat;
             background-size: cover;
          }
@@ -771,10 +771,10 @@ body{
    
    }
    &-button-prev{
-      background-image: url(/src/images/left.svg); 
+      background-image: url(./images/left.svg); 
    }
    &-button-next{
-      background-image: url(/src/images/rigth.svg);
+      background-image: url(./images/rigth.svg);
    }
    &:hover .swiper-button-next,
    &:hover .swiper-button-prev{
@@ -1063,7 +1063,7 @@ body{
       top: 20px;
       width: 20px;
       height: 20px;
-      background: url(/src/images/crossmodal.png);
+      background: url(./images/crossmodal.png);
       background-repeat: no-repeat;
       background-size: cover;
       border: none;
