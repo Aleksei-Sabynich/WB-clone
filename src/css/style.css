@@ -1335,6 +1335,7 @@ body {
 }
 .cardModal .mySwiper-modal__wrapper-img {
   width: 100%;
+  height: 100%;
 }
 .cardModal .mySwiper-modal-img {
   width: 100%;
